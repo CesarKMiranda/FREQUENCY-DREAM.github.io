@@ -40,7 +40,7 @@ Sigue estos pasos para ver la página en acción:
 
 - Localiza el Archivo: Asegúrate de que tienes el archivo principal del proyecto llamado index.html guardado en una ubicación conocida de tu ordenador
 
-- Abre con el Navegador: Haz doble clic en el archivo index.html o bien accede a través del vinculo https:/
+- Abre con el Navegador: Haz doble clic en el archivo index.html o bien accede a través del vinculo https://cesarkmiranda.github.io/FREQUENCY-DREAM.github.io/
 
 - El navegador abrirá automáticamente el documento y lo renderizará
 
@@ -48,7 +48,7 @@ Sigue estos pasos para ver la página en acción:
 
 #### POR ULTIMO PERO NO MENOS IMPORTANTE
 
-Quiero agradecer a DEV-F, Becalos y Fundación Traxión, u a mi esposa Leilani ya que sin su apoyo nada de esto sería posible, gracias a todos por recordarme lo bello de seguir aprendiendo algo nuevo cada dia ❤️
+Quiero agradecer a DEV-F, Becalos, Fundación Traxión, a mi esposa Leilani ya que sin su apoyo nada de esto sería posible, gracias a todos por recordarme lo bello de seguir aprendiendo algo nuevo cada dia ❤️
 
 © 2025 - Desarrollado por Cesar K Miranda
 ## Autor
